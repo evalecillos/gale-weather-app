@@ -61,7 +61,7 @@ With more time and money we could take this application and purchase a premium w
 
 ## Credits
 *  Server, Auth, Pages [Allyson](https://github.com/AllysonMcGrath)
-*  Componets and CSS [Ernesto](https://github.com/evalecillos)
+*  Componets and CSS [Ernesto](https://github.com/zarazhas)
 *  Weather API, Search function [Ken](https://github.com/kenesei91)
 *  Componets and CSS [Suzette](https://github.com/kboston91)
 *  GraphQL backend [Rayce](https://github.com/RayceWheat)
